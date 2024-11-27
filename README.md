@@ -25,3 +25,7 @@ Script contains both registration and deregistration routines.
 
 Good luck implementing it in your own scripts/tools.\
 [Andrzej Demski](https://github.com/AndrewDemski-ad-gmail-com)
+
+
+_P.S.
+In the meantime I will try to prepare some code analysis on GH which will be a tremendouns help in future development._
