@@ -8,11 +8,11 @@ Script contains both registration and deregistration routines.
 
 ## License
 
-[GPL 3](https://choosealicense.com/licenses/gpl-3.0/)
+[GPL 3](LICENSE)
 
 
 ## Tech Stack
 
-**Client:** PowerShell 5.1 or higher, (as for example which contains both methods, ISE - still part of default PoSh 5 on Windows OSes)
+**Client:** PowerShell 5.1 or higher, (attached example contains both methods, please open it in powershell_ISE - luckily it is still part of PoSh 5 component on Windows OSes 10+)
 
 **Server:** (Same conditions as for workstations)
