@@ -28,7 +28,7 @@ jobs:
       - name: Run DevSkim scanner
         uses: microsoft/DevSkim-Action@v1
         with:
-          directory-to-scan: DevSkim-DotNet
+          directory-to-scan: code
           exclude-rules: DS1234,DS126858
           extra-options: -x Verbose
       - name: Upload a Build Artifact
