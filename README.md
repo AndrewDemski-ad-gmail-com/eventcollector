@@ -19,9 +19,9 @@ Script contains both registration and deregistration routines.
 
 ## Scripts
 
-[Register-WmiEvent](Register-WmiEvent.ps1)
+[Register-WmiEvent](code/Register-WmiEvent.ps1)
 
-[Unregister-Event](Unregister-Event.ps1)
+[Unregister-Event](code/Unregister-Event.ps1)
 
 Good luck implementing it in your own scripts/tools.\
 [Andrzej Demski](https://github.com/AndrewDemski-ad-gmail-com)
