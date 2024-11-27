@@ -29,3 +29,5 @@ Good luck implementing it in your own scripts/tools.\
 
 _P.S.
 In the meantime I will try to prepare some code analysis on GH which will be a tremendouns help in future development._
+
+[![DevSkim](https://github.com/AndrewDemski-ad-gmail-com/eventcollector/actions/workflows/devskim.yml/badge.svg?branch=main)](https://github.com/AndrewDemski-ad-gmail-com/eventcollector/actions/workflows/devskim.yml)
